@@ -2,13 +2,13 @@ Package: com.astro.theme
 Version: 2.5
 Architecture: iphoneos-arm64
 Maintainer: Astro15
-Filename: ./deb/Astro15's Theme.deb
-Size: 9768504
-MD5sum: 562537e204e779fa926e2d7cffb6e637
-SHA1: a6fe389786be151302dfc84d2ecc1004590f8acb
-SHA256: 4e2c48be555eb825c01df6ee507f895d463a3bf7d2d8a1c5527e94224cd1059e
+Filename: ./deb/com.astro.theme_2.5_iphoneos-arm64.deb
+Size: 9704396
+MD5sum: cf28c1c4b764efba164a9556ba75cf0a
+SHA1: e4e9581622f32ab787503f35b15036e0f84099b5
+SHA256: 40a92a08c26485f942fb4c4d9cad26f7a6f9330f50878f087471be85dac2507c
 Section: Themes
-Description: Version 2.5 changes anything relating to my old alias "PSBoy2012" to my new alias "Astro15", please remove the old tweak, then install this one. this update also adds some new icons.
+Description: Version 2.5 changes anything relating to my old alias "PSBoy2012" to my new alias "Astro15", and adds some new icons.
 Author: Astro15/JJ
 Icon: file:///var/jb/usr/share/icons/mytweak.png
 Name: Astro15's Theme
