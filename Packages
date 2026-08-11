@@ -1,14 +1,14 @@
 Package: com.astro.theme
-Version: 2.6
+Version: 2.7
 Architecture: iphoneos-arm64
 Maintainer: Astro15
-Filename: ./deb/com.astro.theme_2.6_iphoneos-arm64.deb
-Size: 9608288
-MD5sum: aba4e950a23189c61ad16dfebd7f9ba9
-SHA1: 9a52700e4deaea16e847d2eafa30753c1d699860
-SHA256: 6cf04b3c1bce9ffecc6db0545a15e71d273d893e82fcf8d32facdfd555d8f0f4
+Filename: ./deb/com.astro.theme_2.7_iphoneos-arm64.deb
+Size: 9677136
+MD5sum: 844992a6a17318a6a1eec8eda40c69ff
+SHA1: 0a92ab63d33f41c8f11eca2be9ebbb5757adb1bb
+SHA256: 070bc6272003e43b23110a49443220227074b6004518a5f6f799f85c17e2d903
 Section: Themes
-Description: Version 2.6 Delete's the Damus Nostr social media app icon due to it (Possibly) crashing on iPhone's.
+Description: Version  2.7 Adds the FreeForm Icon and the LotusLamp X Icon.
 Author: Astro15/JJ
 Icon: https://raw.githubusercontent.com/Astro-15/repo/main/CydiaIcon.png
 Name: Astro15's Theme
