@@ -3,10 +3,10 @@ Version: 2.7
 Architecture: iphoneos-arm64
 Maintainer: Astro15
 Filename: ./deb/com.astro.theme_2.7_iphoneos-arm64.deb
-Size: 9677136
-MD5sum: 844992a6a17318a6a1eec8eda40c69ff
-SHA1: 0a92ab63d33f41c8f11eca2be9ebbb5757adb1bb
-SHA256: 070bc6272003e43b23110a49443220227074b6004518a5f6f799f85c17e2d903
+Size: 9677148
+MD5sum: aeeff080bdfaabc51176f0f29a7ba77c
+SHA1: c801c87db82e78b9b98f9692a8c828a3e13da23e
+SHA256: 82e2c2ba7510e601603abcbfc75cd645f4d9c1a32dc4411349d7eabc9cdc0fb5
 Section: Themes
 Description: Version  2.7 Adds the FreeForm Icon and the LotusLamp X Icon.
 Author: Astro15/JJ
