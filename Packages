@@ -13,3 +13,18 @@ Author: Astro15/JJ
 Icon: https://raw.githubusercontent.com/Astro-15/repo/main/CydiaIcon.png
 Name: Astro15's Theme
 
+Package: com.astro.theme
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: Astro15
+Filename: ./deb/com.astro.theme_2.8_iphoneos-arm64.deb
+Size: 10003164
+MD5sum: 68c408e147b3688de489b7b3b1be181e
+SHA1: 62de9682be8344d65d736f13f29ada406a2fa17b
+SHA256: c84f377aac772cb073a7a3ab4d3f58385d679f3cc6a0062061e8e914b5a662d5
+Section: Themes
+Description: Version  2.8 Changes the Discord logo with the white/blue gradient of the iOS 26 liquid glass, And adds the DeepSeek and Mastodon logo.
+Author: Astro15/JJ
+Icon: https://raw.githubusercontent.com/Astro-15/repo/main/CydiaIcon.png
+Name: Astro15's Theme
+
